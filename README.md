@@ -145,7 +145,7 @@ Static files are served from `src/app/` at the `/app` route. Add HTML, CSS, and 
 - Run `npm install` to ensure all dependencies are installed
 - Check that `tsconfig.json` is properly configured
 
-## Technologies Used
+## Dependency
 
 - **Express.js** - Web framework
 - **TypeScript** - Type-safe JavaScript
