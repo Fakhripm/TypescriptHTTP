@@ -61,26 +61,6 @@ npm run dev
 
 The server will start on `http://localhost:8080`
 
-### Production Mode
-
-First, build the project:
-
-```bash
-npm run build
-```
-
-Then run the production server:
-
-```bash
-npm run start
-```
-
-### Run Tests
-
-```bash
-npm test
-```
-
 ## Project Structure
 
 ```
